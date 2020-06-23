@@ -1,1 +1,1 @@
-console.log('hi');
+alert('this is a node app');
